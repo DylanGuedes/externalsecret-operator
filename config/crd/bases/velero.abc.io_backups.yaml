@@ -33,7 +33,7 @@ spec:
   - JSONPath: .metadata.creationTimestamp
     name: Age
     type: date
-  group: velero.io
+  group: velero.abc.io
   names:
     kind: Backup
     listKind: BackupList
