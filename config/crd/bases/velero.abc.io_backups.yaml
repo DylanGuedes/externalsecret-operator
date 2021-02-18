@@ -5,7 +5,7 @@ metadata:
   annotations:
     controller-gen.kubebuilder.io/version: v0.3.0
   creationTimestamp: null
-  name: backups.velero.io
+  name: backups.velero.abc.io
 spec:
   additionalPrinterColumns:
   - JSONPath: .status.phase
